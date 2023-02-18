@@ -1,13 +1,11 @@
 # Orkhan Shukurlu
 
-Hi! My name is Orkhan Shukurlu. I'm a Backend Developer. I have 4 year experience working as
-the part of a team and individually. I'm always energetic and eager to learn new skills and I'm a big lover of
-PHP and Laravel framework
+Hi! I'm a Backend Developer with 4 year experience and a big lover of PHP
 
 > Note  
 > I'm currently learning TALL Stack !
 
-Contact Me
+### Contact Me
 
 <a href="https://www.linkedin.com/in/orkhansh" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:orkahndev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;

@@ -17,8 +17,8 @@ Contact Me
 
 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,mysql,postgres,js,jquery,alpinejs,html,css,bootstrap,tailwind,sass&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,mysql,postgres,js,jquery,html,css,bootstrap&theme=light)](https://skillicons.dev)
 
 Software & Services
 
-[![My Skills](https://skillicons.dev/icons?i=git,redis,stackoverflow,cloudflare,figma,postman,idea,vscode,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,redis,stackoverflow,figma,linux&theme=light)](https://skillicons.dev)

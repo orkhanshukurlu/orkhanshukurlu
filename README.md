@@ -1,7 +1,7 @@
 # Orkhan Shukurlu
 
-Hi! My name is Orkhan Shukurlu. I'm a Software Developer . I have 4 year experience working as
-the part of a team and individually . I'm always energetic and eager to learn new skills and I'm a big lover of
+Hi! My name is Orkhan Shukurlu. I'm a Backend Developer. I have 4 year experience working as
+the part of a team and individually. I'm always energetic and eager to learn new skills and I'm a big lover of
 PHP and Laravel framework
 
 > Note  
@@ -17,9 +17,8 @@ Contact Me
 
 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,jquery,html,css,sass,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,mysql,postgres,js,jquery,alpinejs,html,css,bootstrap,tailwind,sass&theme=light)](https://skillicons.dev)
 
 Software & Services
 
-[![My Skills](https://skillicons.dev/icons?i=git,redis,cloudflare,figma,postman,idea,vscode,linux&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=git,redis,stackoverflow,cloudflare,figma,postman,idea,vscode,linux&theme=light)](https://skillicons.dev)

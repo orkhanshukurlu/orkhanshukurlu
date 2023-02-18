@@ -5,7 +5,7 @@ the part of a team and individually . I'm always energetic and eager to learn ne
 PHP and Laravel framework
 
 > Note  
-> I'm currently learning React Native and Mobile Development !
+> I'm currently learning TALL Stack !
 
 Contact Me
 
@@ -17,9 +17,9 @@ Contact Me
 
 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,codeigniter,mysql,js,jquery,html,css,sass,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,jquery,html,css,sass,bootstrap&theme=light)](https://skillicons.dev)
 
 Software & Services
 
-[![My Skills](https://skillicons.dev/icons?i=git,redis,cloudflare,figma,idea,postman,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,redis,cloudflare,figma,postman,idea,vscode,linux&theme=light)](https://skillicons.dev)
 

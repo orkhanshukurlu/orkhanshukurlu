@@ -1,9 +1,6 @@
 # Orkhan Shukurlu
 
-Hi! I'm a Backend Developer with 4 year experience and a big lover of PHP
-
-> Note  
-> I'm currently learning TALL Stack !
+Hi ! I'm a Senior Backend Developer with 4 year experience and a big lover of PHP
 
 ### Contact Me
 
@@ -19,4 +16,4 @@ Stacks
 
 Software & Services
 
-[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,redis,stackoverflow,figma,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,docker,redis,rabbitmq,linux,vscode,stackoverflow,figma&theme=light)](https://skillicons.dev)

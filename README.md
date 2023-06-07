@@ -18,6 +18,6 @@ Software & Services
 
 [![My Skills](https://skillicons.dev/icons?i=git,postman,docker,redis,rabbitmq,linux,vscode,stackoverflow,figma&theme=light)](https://skillicons.dev)
 
-# 📈 My GitHub Stats
+# 📈 GitHub Stats
 
 [![Orkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=orkhanshukurlu&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,6 +1,6 @@
 # Orkhan Shukurlu
 
-Hi ! I'm a Senior Backend Developer with 4 year experience and a big lover of PHP
+Hi! I'm a Senior Backend Developer with 5 year experience and a big lover of PHP
 
 ### Contact Me
 
@@ -16,7 +16,7 @@ Stacks
 
 Software & Services
 
-[![My Skills](https://skillicons.dev/icons?i=git,postman,docker,redis,rabbitmq,linux,vscode,stackoverflow,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,docker,redis,linux,vscode,stackoverflow,figma&theme=light)](https://skillicons.dev)
 
 # 📈 GitHub Stats
 

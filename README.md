@@ -10,10 +10,10 @@ Hi! I'm a Senior Backend Developer with 5 year experience and a big lover of PHP
 
 # 🛠 &nbsp;Tech Stack
 
-Stacks
+#### Stacks
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,mysql,postgres,js,jquery,html,css,bootstrap&theme=light)](https://skillicons.dev)
 
-Software & Services
+#### Software & Services
 
 [![My Skills](https://skillicons.dev/icons?i=git,postman,docker,redis,linux,vscode,stackoverflow,figma&theme=light)](https://skillicons.dev)

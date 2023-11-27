@@ -6,15 +6,15 @@
 
 #### 📫 How to reach me
 
-<a href="https://linkedin.com/in/orkhanshukurlu" target="_blank">
+<a href="https://linkedin.com/in/orkhanshukurlu">
     <img align="left" width="20px" src="https://simpleicons.vercel.app/linkedin/000">
 </a>
 
-<a href="https://t.me/orkhanshukurlu" target="_blank">
+<a href="https://t.me/orkhanshukurlu">
     <img align="left" width="20px" src="https://simpleicons.vercel.app/telegram/000">
 </a>
 
-<a href="https://twitter.com/orkhanshukur" target="_blank">
+<a href="https://twitter.com/orkhanshukur">
     <img align="left" width="20px" src="https://simpleicons.vercel.app/twitter/000">
 </a>
 

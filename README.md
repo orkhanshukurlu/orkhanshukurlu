@@ -24,8 +24,9 @@
 
 <img align="left" width="20px" src="https://simpleicons.vercel.app/php/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/laravel/000">
-<img align="left" width="20px" src="https://simpleicons.vercel.app/mysql/000">
-<img align="left" width="20px" src="https://simpleicons.vercel.app/postgresql/000">
+<img align="left" width="20px" src="https://simpleicons.vercel.app/symfony/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/javascript/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/jquery/000">
+<img align="left" width="20px" src="https://simpleicons.vercel.app/mysql/000">
+<img align="left" width="20px" src="https://simpleicons.vercel.app/postgresql/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/linux/000">

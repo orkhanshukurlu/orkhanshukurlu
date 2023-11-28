@@ -1,6 +1,6 @@
 ### Hi 👋 I’m Orkhan Shukurlu
 
-- 👨🏽‍💻 I’m currently working on **Edumedia**
+- 👨🏽‍💻 I’m currently working for **Edumedia LLC**
 - 🌱 I’m currently learning **NodeJS** and **ExpressJS**
 - 💬 Ask me about **Backend Development**
 

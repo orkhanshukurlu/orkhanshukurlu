@@ -1,7 +1,7 @@
 ### Hi 👋 I’m Orkhan Shukurlu
 
 - 👨🏽‍💻 I’m currently working for **Edumedia LLC**
-- 🌱 I’m currently learning **Framework Architecture**
+- 🌱 I’m currently learning **System Design**
 - 💬 Ask me about **Backend Development**
 
 #### 📫 How to reach me

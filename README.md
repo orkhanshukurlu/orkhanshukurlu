@@ -14,8 +14,8 @@
     <img align="left" width="20px" src="https://simpleicons.vercel.app/telegram/000">
 </a>
 
-<a href="https://twitter.com/orkhanshukur">
-    <img align="left" width="20px" src="https://simpleicons.vercel.app/twitter/000">
+<a href="https://x.com/orkhanshukur">
+    <img align="left" width="20px" src="https://simpleicons.vercel.app/x/000">
 </a>
 
 <br>

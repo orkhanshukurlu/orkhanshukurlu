@@ -27,6 +27,7 @@
 <img align="left" width="20px" src="https://simpleicons.vercel.app/symfony/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/mysql/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/postgresql/000">
+<img align="left" width="20px" src="https://simpleicons.vercel.app/mongodb/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/linux/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/docker/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/javascript/000">

@@ -1,6 +1,6 @@
 ### Hi 👋 I’m Orkhan Shukurlu
 
-- 👨🏽‍💻 I’m currently working at **Zipmend GmbH**
+- 👨🏽‍💻 I’m currently working at **Zipmend Express**
 - 🌱 I’m currently learning **System Design**
 - 💬 Ask me about **Backend Development**
 
